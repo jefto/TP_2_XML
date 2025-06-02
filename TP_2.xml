@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Mon flux automatique</title>
+    <link>http://jeftobg.com</link>
+    <description>Publication automatique via RSS</description>
+
+    <item>
+      <title>Publier sur Reddit et Medium</title>
+      <description>Ceci est une publication automatique depuis un fichier RSS.</description>
+      <link>http://jeftobg.com/post1</link>
+      <pubDate>Mon, 02 Jun 2025 10:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
